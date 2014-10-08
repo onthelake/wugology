@@ -1,77 +1,89 @@
-// This is my first attempt at making a tic tac toe game using javascript. My goal is to do this without looking at other people's game code. Of course, I'm still learning JS, so I will have to look at people's click event code and learn other things about making a user interface.
+// New attempt, using SVG instead of HTML5 canvas.
 
-// This version uses the HTML5 canvas. I'm starting to think HTML5 canvas might not be the best thing to use for interactive web apps, so future versions will try other things.
+var squares = document.querySelectorAll("svg rect")
+
+var win = [[topLeft,topCenter,topRight],[midCenter,midLeft,midRight],[bottomRight,bottomLeft,bottomCenter],[topLeft,midLeft,bottomLeft],[topCenter,midCenter,bottomCenter],[topRight,midRight,bottomRight],[topLeft,midCenter,bottomRight],[topRight,midCenter,bottomLeft]]
 
 
-// define centerpoint of each square
-
-var topLeftXY = [20,20]
-var topCenterXY = [80,20]
-var topRightXY = [140,20]
-
-var midLeftXY = [20,80]
-var midCenterXY = [80,80]
-var midRightXY = [140,80]
-
-var bottomLeftXY = [20,140]
-var bottomCenterXY = [80,140]
-var bottomRightXY = [140,140]
-
-// define how to draw a line
-
-function line(ctx, x1, y1, x2, y2) {
-    ctx.moveTo(x1, y1);
-    ctx.lineTo(x2, y2);
+function containsObject(obj, list) {
+    var i;
+    for (i = 0; i < list.length; i++) {
+        if (list[i] === obj) {
+            return true;
+        }
+    }
+    
+    return false;
 }
 
-// define what the canvas and context are from html
 
-var canvas = document.querySelector("canvas"),
-    elemLeft = canvas.offsetLeft,
-    elemTop = canvas.offsetTop,
-    context = canvas.getContext('2d'),
-    elements = [];
-var ctx = canvas.getContext("2d");
 
-// draw an X, using lines and centerpoint of each square
+if (squares.length > 0){
+    document.getElementById('gameboard').addEventListener('click',function(e) {
+      //if e.target.id is in squares, then...
+                                                          
+            var sq = e.target.outerHTML;
+            var xReg = /x=\"(\d+)\"/g
+            var X = Number(xReg.exec(sq)[1]);
+            var Xplus = X + 40
+            var yReg = /y=\"(\d+)\"/g
+            var Y = Number(yReg.exec(sq)[1]);
+            var Yplus = Y + 40
+            console.log(X,Y,Xplus,Yplus);
+            var XXX = "<line x1=" + X + " y1=" + Y + " x2=" + Xplus + " y2=" + Yplus + " stroke='black'/> <line x1=" + X + " y1=" + Yplus + " x2=" + Xplus + " y2=" + Y + " stroke='black'/>";
+                                                          console.log(sq);
+                                                          console.log(XXX);
+            e.parentNode.replaceChild(XXX, sq);
 
-function drawX(a,b) {
-    line(ctx, a,b,a+40,b+40);
-    line(ctx, a,b+40,a+40,b);
-    ctx.stroke();
+            // add e.target.id to list of X's squares
+           // var squares = document.querySelectorAll("svg rect") //because this square is now an X, it is no longer a rect; this line removes this square from the available squares
+           //                                               console.log(squares.length);
+           //if (win is in Xsquares){
+           // alert("You win!");
+           // var r = confirm("Play again?");
+           // if (r == true) {
+           //    window.location.reload()
+           //    } else {
+           //      alert("You pressed Cancel!");
+           //  }
+           // }
+                                                          
+                                                          
+            //wait two seconds
+        
+            //var placement = Math.floor(Math.random()*squares.length);
+            //replace placement with O
+            //add placement to list of O's squares
+            // var squares = document.querySelectorAll("svg rect") //because this square is now an O, it is no longer a rect; this line removes this square from the available squares
+        
+            //wait half a second
+
+            //if (win is in Osquares){
+            // alert("You lose!");
+            // var r = confirm("Play again?");
+            // if (r == true) {
+            //    window.location.reload()
+            //    } else {
+            //      alert("You pressed Cancel!");
+            //  }
+            // }
+                                                          
+            }, false);
 }
 
-// draw an O, using arcs and centerpoint of each square
 
-function drawO(a,b) {
-    ctx.moveTo(a+40,b+20);
-    ctx.arc(a+20,b+20,20,0,2*Math.PI);
-    ctx.stroke();
-}
 
-// draw the tic tac toe board
 
-function drawBoard () {
-    line(ctx,70,10,70,190);
-    line(ctx,130,10,130,190);
-    line(ctx,10,70,190,70);
-    line(ctx,10,130,190,130);
-    ctx.stroke();
 
-}
 
-// call the tictactoe board when the JS is loaded
 
-drawBoard();
 
-// this version will make a random tictactoe board every time you refresh the page. this version does not know anything about turn taking or when the game is won.
 
-var availableSquares = [topLeftXY,topCenterXY,topRightXY,midLeftXY,midCenterXY,midRightXY,bottomLeftXY,bottomCenterXY,bottomRightXY]
-while (availableSquares.length > 0){
-    var placementX = Math.floor(Math.random()*availableSquares.length);
-    drawX(availableSquares[placementX][0],availableSquares[placementX][1]);
-    availableSquares.splice(placementX,1);
-    var placementO = Math.floor(Math.random()*availableSquares.length);
-    drawO(availableSquares[placementO][0],availableSquares[placementO][1]);
-    availableSquares.splice(placementO,1);
-}
+
+
+
+
+
+
+
+

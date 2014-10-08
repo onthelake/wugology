@@ -1,10 +1,39 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<title>tic tac toe</title>
+<meta charset=utf-8>
+<style>
+.cell { 
+  width: 40px;
+  height: 40px;
+  padding: 0px;
+  background-color: white;
+  margin: 0px;
+}
 
-</head>
+
+</style>
 <body>
-    <canvas width=200; height=200; position:relative;>I'm sorry! Your browser does not support HTML5!</canvas>
-<script src="tictactoe.js"></script>
+<h1>tic tac toe</h1>
+<div id=board>
+  <div class=row>
+      <img class=cell id="topLeft" src=blank.svg
+          style="border-right:2px solid black; border-bottom: 2px solid black">
+    <img class=cell id="topCenter" src=blank.svg style="border-right:2px solid black; border-bottom: 2px solid black">
+    <img class=cell id="topRight" src=blank.svg style="border-bottom:2px solid black">
+  </div>
+  <div class=row>
+    <img class=cell id="midLeft" src=blank.svg style="border-right:2px solid black; border-bottom: 2px solid black">
+    <img class=cell id="midCenter" src=blank.svg style="border-right:2px solid black; border-bottom: 2px solid black">
+    <img class=cell id="midRight" src=blank.svg style="border-bottom:2px solid black">
+  </div>
+  <div class=row>
+    <img class=cell id="bottomLeft" src=blank.svg style="border-right:2px solid black">
+    <img class=cell id="bottomCenter" src=blank.svg style="border-right:2px solid black">
+    <img class=cell id="bottomRight" src=blank.svg>
+  </div>
+</div>
+
+<script src="tictactoe2.js"></script>
 
 </body>
-</html>
+
