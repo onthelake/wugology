@@ -1,0 +1,427 @@
+Jobs : Syntax ; Treebanking :; Jobs : English ; Applied Linguistics ;
+TESOL :; Jobs : Communication :; Jobs : Semantics :; Jobs : Phonetics
+; Phonology :; Jobs : Language Documentation :; Jobs : German ;
+Applied Linguistics :; Jobs : African Languages ; Sesotho :; Jobs :
+Phonology :; Jobs : Various Languages :; Jobs : NLP ; Data/Text Mining
+:; Jobs : Mandarin ; NLP :; Jobs : English ; General Ling :; Jobs :
+Comp Ling ; NLP :; Jobs : Syntax :; Jobs : Dutch ; Phonology :; Jobs :
+American Sign Language ; General Ling :; Jobs : African Langs ;
+General Ling :; Jobs : Brazilian Portuguese/Machine Translation :;
+Jobs : French ; Machine Translation :; Jobs : Italian ; Machine
+Translation :; Jobs : English ; NLP ; Statistical Modeling :; Jobs :
+Computational Ling ; Semantics ; NLP :; Jobs : Comp Ling ; General
+Ling :; Jobs : African Languages & amp ; Ling :; Jobs : French ;
+Applied Linguistics :; Jobs : General Linguistics :; Jobs : NLP ; Ling
+Software Development :; Jobs : Cognitive Science :; Jobs : French ;
+Spanish ; Computational Linguistics :; Jobs : Applied Linguistics ;
+ESL :; Jobs : German ; Lang & amp ; Cognition :; Jobs : American Sign
+Language :; Jobs : Spanish Linguistics :; Jobs : Spanish ;
+Iberoromance Linguistics :; Jobs : NLP :; Jobs : Language Sciences :;
+Jobs : Phonetics ; Speech Science :; Jobs : Korean Language Studies :;
+Jobs : Multiple Langs ; Web Research :; Jobs : Computational
+Linguistics ; NLP :; Jobs : Dutch ; ( Diachronic ) Construction
+Grammar :; Jobs : Pragmatics ; Semantics :; Jobs : Applied Linguistics
+; TESOL :; Jobs : Korean Languages and Linguistics :; Jobs : Applied
+Linguistics :; Jobs : Second Language Studies :; Jobs : Comp Ling ;
+Disc Analysis ; Syntax :; Jobs : French ; Second Language Pedagogy :;
+Jobs : French ; General Linguistics :; Jobs : Spanish ; Lang
+Acquisition :; Jobs : German ; Computational Linguistics :; Jobs :
+Applied Ling ; Psycholing :; Jobs : Bilingualism ; Psycholing :; Jobs
+: Text/Corpus Linguistics :; Jobs : Japanese or Malay :; Jobs : Lang
+Acq ; Phonology ; Syntax :; Jobs : Applied Linguistics :; Jobs :
+Medieval/Anglo Saxon English :; Jobs : English Literature & amp ;
+Language :; Jobs : English ; History of Ling :; Jobs : English ;
+Dialectology :; Jobs : Spanish ; CHAT/CLAN ; Transcription :; Jobs :
+Natural Language Processing :; Jobs : English ; General Linguistics :;
+Jobs : Psycholinguistics :; Jobs : Speech Hearing/Phonetic Science :;
+Jobs : Mandarin Chinese :; Jobs : English ; Applied Linguistics :;
+Jobs : Psycholinguistics :; Jobs : South African Sign Language :; Jobs
+: Dutch ; Psycholinguistics :; Jobs : Various Languages ; Comp Ling :;
+Jobs : French ; Syntax :; Jobs : Italian ; Syntax :; Jobs :
+Neurolinguistics :; Jobs : Phonetics ; Socioling :; Jobs : Phonetics ;
+Cog Neuroscience :; Jobs : Psycholinguistics :; Jobs : German ;
+English ; Sociolinguistics :; Jobs : Teaching Chinese as a Foreign
+Language :; Jobs : Sociolinguistics :; Jobs : Syntax :; Jobs : Social
+Psychology of Language :; Jobs : English ; Applied Linguistics :; Jobs
+: Turkish ; Applied Ling ; Lang Acquisition :; Jobs : English Language
+& amp ; Ling :; Jobs : Phonology or Syntax :; Jobs : English for
+Academic Purposes :; Jobs : English ; Sociolinguistics :; Jobs : NLP
+:; Jobs : Spanish ; Syntax :; Jobs : Applied Linguistics :; Jobs :
+Computational Linguistics ; NLP :; Jobs : Frequency Effects in
+Language :; Jobs : Portuguese ; Italian ; Comp Ling ; NLP :; Jobs :
+Various Langs ; Lang Acq :; Jobs : English ; Socioling :; Jobs :
+Computational Semantics :; Jobs : Area Open :; Jobs : Semantics ;
+Pragmatics ; Syntax/Semantics Interface :; Jobs : Applied Ling ;
+First-Year Writing :; Jobs : Various Languages ; Applied Ling ; Lang
+Acq :; Jobs : Chinese Linguistics :; Jobs : Ling & amp ; Literature :;
+Jobs : Semantics :; Jobs : Comp Ling ; Information Extraction :; Jobs
+: English Linguistics :; Jobs : Foreign Language Distance/Self-
+Learning :; Jobs : Various Languages ; Multilingual Development :;
+Jobs : French ; Applied Ling :; Jobs : Communicative Sciences & amp ;
+Disorders :; Jobs : Applied Linguistics ; Language Testing :; Jobs :
+Computational Linguistics ; NLP :; Jobs : Applied Linguistics ;
+Language Testing :; Jobs : Phonetics :; Jobs : Modified : Comp Ling :;
+Jobs : English Language Teaching & amp ; Learning :; Jobs : Applied
+Ling ; General Ling :; Jobs : Applied Ling :; Jobs : English ; TESOL
+:; Jobs : English Ling :; Jobs : Computational Linguistics :; Jobs :
+Phonetics :; Jobs : English ; NLP :; Jobs : General Linguistics :;
+Jobs : Non-Colonial Language of Africa ; General Ling :; Jobs :
+Swahili ; Applied Linguistics :; Jobs : General Ling or Phonology :;
+Jobs : General Linguistics :; Jobs : English ; Korean ; Lang Acq :;
+Jobs : English ; Applied Linguistics :; Jobs : English ; German ;
+French ; Socioling :; Jobs : Japanese ; Syntax :; Jobs : Korean ;
+Syntax :; Jobs : Various Langs ; Foreign Lang Education :; Jobs :
+Natural Language Processing :; Jobs : Phonetics :; Jobs :
+Computational Linguistics :; Jobs : English Linguistics :; Jobs :
+Various Languages ; Foreign Speech Comprehension :; Jobs : English ;
+Cognitive Linguistics or Bilingualism :; Jobs : Modern English
+Language ; General Linguistics :; Jobs : German Language :; Jobs :
+Neurolinguistics :; Jobs : Asian Englishes ; Language Contact :; Jobs
+: General and German Linguistics :; Jobs : General Linguistics :; Jobs
+: Syntax :; Jobs : Historical Linguistics :; Jobs : Psycholinguistics
+:; Jobs : Movement , Gesture and Language :; Jobs : Phonetics ;
+Phonology :; Jobs : Comp Ling :; Jobs : Information Structure :; Jobs
+: Sociolinguistics :; Jobs : Thai ; Comp Ling ; Phonetics :; Jobs :
+Applied Linguistics :; Jobs : NLP , Bionlp :; Jobs : English ; Pre-
+sessional/Introductory Lang :; Jobs : Information Retrieval , NLP :;
+Jobs : Research & amp ; Analysis :; Jobs : Sociolinguistics :; Jobs :
+Language and the Media :; Jobs : Modern Greek ; Applied Linguistics :;
+Jobs : English for Academic Purposes :; Jobs : General Linguistics ;
+TESOL :; Jobs : Translation :; Jobs : English ; TESOL :; Jobs :
+English ; Applied Linguistics :; Jobs : English ; Applied Linguistics
+:; Jobs : General Ling ; Syntax :; Jobs : English ; Applied
+Linguistics :; Jobs : English ; French ; Applied Linguistics :; Jobs :
+Various Langs ; Comp Ling :; Jobs : Standard Arabic ; Semitic Langs ;
+Applied Ling :; Jobs : General Linguistics :; Jobs : Cognitive Science
+; General Ling :; Jobs : English ; Second Lang Acq ; Linguistic
+Variation :; Jobs : English :; Jobs : English ; General Linguistics :;
+Jobs : Disciplinary Writing ; English for Specific Purposes :; Jobs :
+German ; Language Program Coordination :; Jobs : English ; Applied
+Linguistics :; Jobs : General Ling ; Specialty Open :; Jobs : Lang Acq
+; Morphology ; Phonetics ; Semantics ; Syntax :; Jobs : English ; TEFL
+:; Jobs : General Ling ; Communication Disorders :; Jobs :
+Quantitative Linguistics :; Jobs : Jobs :; Jobs : Semantics :; Jobs :
+English ; Psycholing :; Jobs : Comp Ling :; Jobs : Sociolinguistics :;
+Jobs : Hindi ; Teaching Hindi as a Foreign Language :; Jobs :
+Phonology :; Jobs : Modern Greek ; Applied Linguistics :; Jobs :
+Morphology ; Typology :; Jobs : Computational Phonology :; Jobs :
+English Lang and Communication :; Jobs : English Lang and
+Communication :; Jobs : L2 Lang Acq ; Experimental Phonetics :; Jobs :
+Spanish ; Second Language Acquisition :; Jobs : Computational
+Linguistics :; Jobs : General Ling ; Field Ling :; Jobs :
+Computational Linguistics :; Jobs : Mandarin Chinese :; Jobs :
+Linguistics of South America , Amerindian Langs :; Jobs : English ;
+Dutch ; Second Lang Acq ; Translation :; Jobs : Communication
+Disorders ; Speech/Language Computational Modeling :; Jobs : Comp Ling
+; Lexicography ; Multi-Cultural Name Checking :; Jobs : English ;
+Applied Linguistics :; Jobs : General Linguistics :; Jobs : Cognitive
+Science ; Phonetics ; Psycholinguistics :; Jobs : Phonetics ;
+Phonology :; Jobs : English ; Historical Ling ; Text/Corpus Ling :;
+Jobs : Computational Linguistics ; Semantics :; Jobs : Phonetics :;
+Jobs : Comp Ling ; NLP :; Jobs : General Linguistics :; Jobs : Natural
+Language Processing :; Jobs : Syntax :; Jobs : French Linguistics :;
+Jobs : General Ling ; English Syntax ; History of English :; Jobs :
+General Linguistics :; Jobs : English Linguistics ; Lexicography :;
+Jobs : English Linguistics :; Jobs : English ; General Ling :; Jobs :
+English ; Applied Ling :; Jobs : Spanish Language Teaching :; Jobs :
+Phonetics ; Phonology ; Speech Technology :; Jobs : Syntax :; Jobs :
+English ; German ; French ; Socioling :; Jobs : English ; German ;
+Translation-Oriented Language Technology :; Jobs : English ;
+Text/Corpus Linguistics :; Jobs : English ; Lexicography :; Jobs :
+English ; TEFL :; Jobs : Natural Language Processing :; Jobs : Chinese
+Language and Linguistics :; Jobs : Second Language Studies :; Jobs :
+Comp Ling ; Text/Corpus Ling :; Jobs : Information Structure :; Jobs :
+Modified : Spanish Language Teaching :; Jobs : English for Academic
+Purposes :; Jobs : English ; Applied Linguistics :; Jobs : General
+Linguistics :; Jobs : English ; Applied Ling :; Jobs : Language
+Teaching and Learning :; Jobs : Applied Langs ; Localisation & amp ;
+Lang Technologies :; Jobs : Phonetics ; Phonology :; Jobs : Cognitive
+Neuroscience ; Lang & amp ; Cognition :; Jobs : Less Commonly Taught
+Langs :; Jobs : Instructed 2nd Lang Acq :; Jobs : Distance Foreign
+Lang Learning :; Jobs : Language and Contemporary Media Practice :;
+Jobs : Psycholing :; Jobs : General Linguistics ; Writing :; Jobs :
+Hebrew ; Comp Ling ; Phonetics :; Jobs : Afrikaans ; Comp Ling ;
+Phonetics :; Jobs : English ; TESOL :; Jobs : General Ling ; Phonetics
+:; Jobs : Psycholinguistics :; Jobs : Syntax ; Syntax-Phonology
+Interface :; Jobs : Spanish ; Applied Ling ; Comp Ling ; Lang Acq :;
+Jobs : Various Langs ; Comp Ling ; Phonetics :; Jobs : Statistical NLP
+:; Jobs : English ; Applied Ling ( English Teaching ) :; Jobs : Arabic
+; Applied Ling ; Arabic Culture & amp ; Literature :; Jobs : Semantics
+; Syntax :; Jobs : Spanish ; Applied Ling :; Jobs : Turkish ;
+Semantics ; Syntax :; Jobs : Portuguese ; Semantics ; Syntax :; Jobs :
+Standard Arabic ; Semantics ; Syntax :; Jobs : Russian ; Semantics ;
+Syntax :; Jobs : Cog Sci ; Lang Acq ; Neuroling :; Jobs : Cog Sci ;
+Lang Acq ; Neuroling :; Jobs : Phonetics ; Phonology :; Jobs :
+Mandarin ; Applied Ling ; Chinese Ling :; Jobs : Mandarin ; Applied
+Ling ; Translation ; Chinese Ling :; Jobs : Mandarin ; Applied Ling ;
+Translation :; Jobs : Applied Ling ; Cog Sci :; Jobs : Japanese :;
+Jobs : Phonetics ; Phonology :; Jobs : General Linguistics :; Jobs :
+Japanese ; Translation :; Jobs : Phonetics ; Psycholing ; Clinical
+Ling :; Jobs : Lang Acq :; Jobs : General Ling :; Jobs : Modified :
+Psycholing :; Jobs : Persian ; Various Lang ; General Ling :; Jobs :
+Various Lang ; General Ling :; Jobs : French ; German ; Italian ;
+General Ling :; Jobs : Hindi ; Urdu :; Jobs : Lang Acq :; Jobs :
+Semantics :; Jobs : Applied Ling :; Jobs : French :; Jobs : Applied
+Ling :; Jobs : Mandarin Chinese ; Applied Ling :; Jobs : Applied Ling
+, General Ling :; Jobs : English ; Spanish ; General Ling ; Phonetics
+:; Jobs : English ; Spanish ; General Ling ; Phonetics :; Jobs :
+Discourse Analysis ; Phonetics ; Socioling :; Jobs : Comp Ling :; Jobs
+: Spanish ; Lang Acq ; Translation :; Jobs : Applied Ling :; Jobs :
+Applied Linguistics :; Jobs : Comp Ling :; Jobs : Romance ; General
+Ling :; Jobs : General Ling ; Phonology ; Morphology ; Syntax :; Jobs
+: German ; General Ling ; Empirical Methdods in Ling :; Jobs : Field
+Linguistics ; Morphology ; Syntax ; Spell-out :; Jobs : Japanese ;
+Applied Ling :; Jobs : French ; German ; Luxembourgish ; Applied Ling
+:; Jobs : Modified : General Linguistics :; Jobs : German ; Romance ;
+General Ling ; Historical Ling ; History of Ling ; Contact Langs ;
+Plurilingualism :; Jobs : German ; Germanistische Linguistik :; Jobs :
+General Ling :; Jobs : Semantics :; Jobs : Comp Ling :; Jobs :
+Cognitive Sci ; Pragmatics :; Jobs : Japanese ; Applied Ling :; Jobs :
+Modified : Mandarin Chinese ; Applied Ling :; Jobs : English ; Comp
+Ling ; Semantics :; Jobs : Cognitive Sci :; Jobs : General Ling ;
+English Ling :; Jobs : Spanish ; Historical Ling :; Jobs : General
+Ling ; English Ling :; Jobs : Typology ; Australian Languages :; Jobs
+: Applied Ling :; Jobs : Multilingual Lang Acq and/or Literacy :; Jobs
+: Multilingual Lang Acq and/or Literacy :; Jobs : Multilingual Lang
+Acq and/or Literacy :; Jobs : Polish ; Phonetics ; Translation :; Jobs
+: Applied Ling :; Jobs : General Ling :; Jobs : Basque ; Applied Ling
+:; Jobs : Semantics :; Jobs : Comp Ling , NLP :; Jobs : General Ling
+:; Jobs : Dutch ; Comp Ling ; Text/Corpus Linguistics :; Jobs :
+English ; Applied Ling ; EFL Material Design ; TEFL :; Jobs : English
+; Multilingualism , Typology , Text/Corpus Linguistics , Linguistic
+Variation :; Jobs : Phonetics , Speech Perception , Speech Production
+:; Jobs : French ; Applied Ling :; Jobs : German ; English ;
+Acquisition of Connectors :; Jobs : English ; Computer Assisted
+Language Learning :; Jobs : Cognitive Sci ; Comp Ling ; Lang Acq :;
+Jobs : Second Language Acquisition :; Jobs : Neuroling ; Psycholing ;
+Multilingual Studies :; Jobs : Phonology :; Jobs : Phonology :; Jobs :
+Phonology :; Jobs : Applied Ling :; Jobs : Applied Ling ; Rhetoric and
+Composition :; Jobs : Applied Ling ; Rhetoric and Composition :; Jobs
+: Comp Ling ; Text Mining :; Jobs : Comp Ling :; Jobs : Malay ;
+Indonesian ; Comp Ling :; Jobs : Cog Sci ; Empirical Modeling of Eye
+Movements :; Jobs : Applied Ling ; Writing for L1/2 Speakers :; Jobs :
+English ; Applied Ling ; TEFL ; TESL ; TESOL :; Jobs : Computer
+Assisted Language Learning :; Jobs : English ; English Ling :; Jobs :
+General Ling :; Jobs : English ; General Ling :; Jobs : General Ling
+:; Jobs : Spanish ; Italian ; Applied Ling ; Disc Analysis ; Socioling
+:; Jobs : Applied Ling :; Jobs : Onomastics :; Jobs : Comp Ling :;
+Jobs : Mandarin Chinese ; Comp Ling :; Jobs : Applied Ling :; Jobs :
+French ; Phonetics :; Jobs : English ; Applied Ling ; Computer
+Assisted Language Learning :; Jobs : Historical Ling ; Indigenous
+Languages of the Americas :; Jobs : Phonetics ; Phonology :; Jobs :
+German ; General Ling ; German Ling :; Jobs : Natural Language
+Processing :; Jobs : Comp Ling ; Natural Language Processing :; Jobs :
+Comp Ling ; NLP :; Jobs : Semantics ; Pragmatics :; Jobs : Portuguese
+; Ling & amp ; Lit ; Syntax :; Jobs : Italian ; Ling & amp ; Lit ;
+Syntax :; Jobs : Latin Ling :; Jobs : Modified : Multiple Langs ; Web
+Research :; Jobs : Cognitive Sci ; General Ling :; Jobs : Comp Ling ;
+NLP ; Machine Learning :; Jobs : Comp Ling :; Jobs : Modified :
+Multiple Langs ; Web Research :; Jobs : Articulatory Phonetics :; Jobs
+: Northern Kurdish ; Phonetics ; Phonology :; Jobs : Tok Pisin ;
+Phonetics ; Phonology :; Jobs : Lao ; Phonetics ; Phonology :; Jobs :
+NLP :; Jobs : English ; Finnish ; Swedish ; Phonetics :; Jobs : Comp
+Ling ; NLP :; Jobs : English ; Italian ; German ; Lang Acq :; Jobs :
+Lang Acq :; Jobs : General Ling ; Lang Acq ; Psycholing :; Jobs :
+Morphology ; Typology ; Lexical Resources and Databases :; Jobs :
+English ; Applied Ling ; English Pedagogy :; Jobs : Applied Ling ;
+Educational Sciences :; Jobs : Comp Ling :; Jobs : Comp Ling :; Jobs :
+Comp Ling ; Text/Corpus Ling :; Jobs : Comp Ling :; Jobs : Comp Ling
+:; Jobs : Comp Ling :; Jobs : Comp Ling :; Jobs : English ; Applied
+Ling :; Jobs : Mandarin Chinese ; Applied Ling :; Jobs : Comp Ling :;
+Jobs : Comp Ling :; Jobs : Comp Ling :; Jobs : Comp Ling :; Jobs :
+Comp Ling :; Jobs : Comp Ling :; Jobs : Comp Ling :; Jobs : Comp Ling
+; Phonetics :; Jobs : Comp Ling ; Phonology :; Jobs : Comp Ling ;
+Text/Corpus Ling :; Jobs : Comp Ling ; Phonology :; Jobs : Comp Ling ;
+Phonology :; Jobs : Comp Ling ; Phonology :; Jobs : Comp Ling :; Jobs
+: Comp Ling :; Jobs : Comp Ling :; Jobs : Comp Ling :; Jobs : Dutch ;
+Comp Ling ; Phonetics :; Jobs : Comp Ling :; Jobs : Spanish ; Comp
+Ling ; Phonetics :; Jobs : Phonology :; Jobs : Russian ; Applied Ling
+:; Jobs : Syntax :; Jobs : Modified : English ; Applied Ling ; Lang
+Acq ; Phonology ; Translation :; Jobs : Computational Ling :; Jobs :
+Cog Sci ; Computational Ling :; Jobs : English ; Applied Ling ; Lang
+Acq :; Jobs : Psycholinguistics :; Jobs : Multiple Languages ; Comp
+Ling ; Phonetics :; Jobs : Assamese ; General Ling :; Jobs :
+Sociolinguistics :; Jobs : Vietnamese ; General Ling ; Phonetics :;
+Jobs : Computational Linguistics :; Jobs : Comp Ling :; Jobs : Comp
+Ling :; Jobs : Comp Ling ; Dialog Systems :; Jobs : Multiple Languages
+; General Ling ; Historical Ling :; Jobs : German ; Text/Corpus
+Linguisticcs :; Jobs : Romance ; General Ling :; Jobs : Spanish ;
+Socioling :; Jobs : Standard Arabic ; Applied Ling ; ESL :; Jobs :
+English ; Curriculum Development :; Jobs : Language Development :;
+Jobs : English ; General Linguistics ; Syntax :; Jobs : Spanish ;
+General Linguistics :; Jobs : Applied Ling ; ESL ; TESOL :; Jobs :
+Modified : Cog Sci ; Computational Ling ; Lang Development :; Jobs :
+Applied Ling ; ESL ; ELL ; Bilingual Education , E-learning :; Jobs :
+Multiple Languages ; Comp Ling ; Phonetics :; Jobs : Comp Ling :; Jobs
+: Applied Ling ; TESL :; Jobs : French ; Teaching and Learning ;
+Second Lang Education :; Jobs : Socioling :; Jobs : Indo-European ;
+Historical Ling :; Jobs : English ; Applied Ling :; Jobs : Natural
+Language Processing :; Jobs : Statistics ; Text/Corpus Ling ; Typology
+:; Jobs : Computational Ling ; Phonology :; Jobs : Phonetics :; Jobs :
+Syntax :; Jobs : General Ling ; Chair of Department :; Jobs :
+Computational Ling ; Measurement , Statistics & amp ; Evaluation :;
+Jobs : Computational Ling ; Natural Language Processing :; Jobs :
+Phonology :; Jobs : General Ling :; Jobs : English ; Dutch ;
+Translation :; Jobs : Translation :; Jobs : Multiple Languages ;
+Translation ; Interpretation :; Jobs : Hindi ; Comp Ling ;
+Lexicography ; Phonetics ; Text/Corpus Ling ; Speech ( ASR , TTS , NLP
+) :; Jobs : Portuguese ; Applied Ling ; Discourse Analysis ; Socioling
+:; Jobs : Bengali ; Kannada ; Telugu ; Tamil ; Marathi ; Comp Ling ;
+Lexicography ; Phonetics ; Text/Corpus Ling ; Speech ( ASR , TTS , NLP
+) :; Jobs : Comp Ling :; Jobs : Standard Arabic ; Applied Ling ;
+Arabic Language :; Jobs : General Linguistics :; Jobs : Portuguese ;
+Applied Ling :; Jobs : General Linguistics :; Jobs : English ; Applied
+Linguistics :; Jobs : Spanish ; English ; Applied Ling ; Discourse
+Analysis ; Socioling :; Jobs : Applied Ling :; Jobs : Applied Ling ,
+Lang Acq :; Jobs : General Ling :; Jobs : Computational Ling :; Jobs :
+Portuguese ; Literature ; Syntax :; Jobs : Computational Ling ; NLP :;
+Jobs : Computational Ling :; Jobs : Spanish ; General Ling ; Spanish &
+amp ; Latin American Studies :; Jobs : Lang Acquisition ; Latin
+American Linguistics :; Jobs : General Ling :; Jobs : English ;
+General Ling :; Jobs : Spanish ; Lang Acq :; Jobs : Semantics ; Syntax
+; Typology :; Jobs : Spanish ; Socioling :; Jobs : Applied Linguistics
+:; Jobs : Spanish ; Applied Ling ; General Ling :; Jobs : Akan ; Fanti
+; Twi ; Translation :; Jobs : Cog Sci ; Computational Ling , NLP :;
+Jobs : Applied Ling ; TESOL :; Jobs : Phonology :; Jobs : Phonetics :;
+Jobs : Cog Sci ; Lang Sciences Or Disorders :; Jobs : Celtiberian ;
+Celtic Studies , General Ling :; Jobs : Spanish ; Socioling :; Jobs :
+Semantics , Syntax :; Jobs : Morphology ; Semantics ; Syntax :; Jobs :
+English ; Applied Ling :; Jobs : Statistical Natural Language
+Processing :; Jobs : Spanish ; General Ling ; Text/Corpus Ling ;
+Translation :; Jobs : Spanish ; Applied Ling ; Lang Acq :; Jobs :
+English ; Applied Ling ; Discourse Analysis ; Socioling :; Jobs : Comp
+Ling ; Language Documentation ; Lexicography :; Jobs : Comp Ling ;
+Mathematics ; Statistics , Data Mining :; Jobs : Multiple Languages ;
+Comp Ling :; Jobs : English ; Applied Ling :; Jobs : General Ling :;
+Jobs : General Linguistics :; Jobs : Korean ; General Ling ; Socioling
+:; Jobs : Semantics :; Jobs : General Ling :; Jobs : Modified : Cog
+Sci , Cog Neuroscience :; Jobs : Modified : General Linguistics :;
+Jobs : Comp Ling ; Phonetics :; Jobs : Modified : English ; Applied
+Ling :; Jobs : Computational Ling ; NLP :; Jobs : Portuguese ; Spanish
+; General Ling :; Jobs : Mandarin Chinese ; Applied Ling :; Jobs :
+General Ling :; Jobs : Italian ; Comp Ling :; Jobs : Formal Pragmatics
+; Semantics :; Jobs : Historical Linguistics :; Jobs : French ;
+Applied Linguistics :; Jobs : Spanish ; English ; Comp Ling :; Jobs :
+Cog Sci ; Neuroling :; Jobs : Phonology :; Jobs : Germanic ; General
+Ling ; Syntax :; Jobs : Applied Linguistics :; Jobs : Natural Language
+Processing :; Jobs : Applied Linguistics ; Phonology :; Jobs : Applied
+Ling ; TESOL :; Jobs : Applied Linguistics :; Jobs : Lexical Semantics
+:; Jobs : Applied Ling ; TESOL :; Jobs : Computational Linguistics :;
+Jobs : General Ling ; Historical Ling ; Socioling :; Jobs : English ;
+Applied Ling :; Jobs : Cog Sci ; Computational Ling ; Neuroling ;
+Psycholing :; Jobs : English ; Lang Acq :; Jobs : Speech , Language
+and Hearing Sciences :; Jobs : Mandarin Chinese ; Applied Ling ; Lang
+Acq :; Jobs : Second Lang Acq :; Jobs : Psycholing :; Jobs : Lang Acq
+; Neuroling :; Jobs : Audiology ; Psycholing :; Jobs : Modified :
+General Linguistics :; Jobs : Spanish ; General Ling :; Jobs : English
+; Applied Ling ; General Ling :; Jobs : Spanish ; Applied Ling ; Lang
+Acq :; Jobs : Spanish ; General Ling ; Phonetics :; Jobs : Japanese ;
+Mandarin Chinese ; Applied Ling :; Jobs : English ; Applied Ling ;
+Ling & amp ; Lit :; Jobs : English ; Ling & amp ; Lit :; Jobs :
+Spanish ; General Ling ; Hispanic Ling :; Jobs : Semantics ; Syntax :;
+Jobs : Semantics ; Syntax :; Jobs : Kazakh ; Comp Ling :; Jobs :
+Multiple Languages ; Phonetics :; Jobs : Spanish ; Phonetics ;
+Phonology ; General Ling :; Jobs : Spanish & amp ; Latin Subgroup ;
+Applied Ling :; Jobs : Comp Ling ; Lexico-Syntactic Text
+Simplification :; Jobs : Discourse Analysis , L2 Pragmatics ; Lang
+Socialization :; Jobs : Psycholing :; Jobs : English Lang Learning ;
+World Languages Education :; Jobs : Applied Linguistics :; Jobs :
+General Linguistics :; Jobs : Sociophonetics or Laboratory ; Comp
+Phonology :; Jobs : French ; English ; Translation :; Jobs : Semantics
+:; Jobs : Automatic Speech Recognition ; Computational Linguistics :;
+Jobs : Cog Sci , Lang Disorders , Neuroling :; Jobs : Artificial
+Intelligence ; Comp Ling ; NLP :; Jobs : English ; Applied Ling ; TEFL
+:; Jobs : English ; Applied Ling ; TESOL :; Jobs : English ; Applied
+Ling ; TESOL :; Jobs : English ; Applied Ling :; Jobs : Second Lang
+Acquisition :; Jobs : Native American Studies :; Jobs :
+Anthropological Ling :; Jobs : Applied Ling ; Bilingual Education ;
+ESL :; Jobs : Anthropological Ling ; Socioling :; Jobs : English ;
+Applied Ling :; Jobs : Applied Ling :; Jobs : Comp Ling ; NLP ; Human
+Language Technology :; Jobs : Spanish ; Lang Acquisition :; Jobs :
+Comp Ling :; Jobs : French ; Applied Ling :; Jobs : English ; Applied
+Ling ; ESL :; Jobs : Anthropological Linguistics :; Jobs : Comp Ling
+:; Jobs : General Ling :; Jobs : Comp Ling ; Neuroling :; Jobs :
+English ; Socioling :; Jobs : English ; Socioling :; Jobs : Spanish ;
+Phonology , Sociophonetics , Corpus Ling :; Jobs : Syntactic and
+Morphological Typology :; Jobs : English ; Socioling ; Historical Ling
+:; Jobs : Spanish ; Applied Ling :; Jobs : Phonetics :; Jobs :
+Brazilian Portuguese ; Comp Ling ; Phonetics :; Jobs : Phonetics ;
+Phonology :; Jobs : Phonology ; Semantics ; Socioling ; Syntax :; Jobs
+: Phonetics ; Phonology :; Jobs : Modified : English ; Applied Ling :;
+Jobs : General Ling :; Jobs : Cog Sci , General Ling , Art History ,
+Metrics :; Jobs : Japanese ; Korean ; Comp Ling ; General Ling :; Jobs
+: Mandarin Chinese ; General Ling :; Jobs : Multiple Languages , Comp
+Ling ; NLP :; Jobs : Portuguese ; General Linguistics :; Jobs :
+Communication and Information Studies :; Jobs : Communication & amp ;
+Information Studies :; Jobs : Anthropological Linguistics :; Jobs :
+Cog Sci ; General Ling ; Psycholing :; Jobs : Mandarin Chinese ; Lang
+Acq :; Jobs : English ; General Ling ; Phonetics :; Jobs : Phonetics
+:; Jobs : Standard Arabic ; Applied Ling :; Jobs : English ; French ;
+Translation :; Jobs : English ; General Ling :; Jobs : Applied Ling :;
+Jobs : Applied Ling ; TESOL ( K-12 ) :; Jobs : Lang Acq ; Lang
+Processing ; Comp Ling ; Neuroling :; Jobs : Cognitive Science ; Comp
+Ling :; Jobs : Generative Phonology :; Jobs : French ; Applied Ling ;
+Online Curricula :; Jobs : African Languages ; Second Lang Acq :; Jobs
+: General Linguistics :; Jobs : Thai ; Comp Ling ; Text/Corpus
+Linguistics :; Jobs : English ; NLP ; Semantics :; Jobs : Multiple
+Languages ; Translation :; Jobs : English ; Language Acquisition :;
+Jobs : Computational Linguistics :; Jobs : English ; General Ling :;
+Jobs : English ; General Ling :; Jobs : English ; General Linguistics
+:; Jobs : English ; General Ling ; Socioling ; Translation :; Jobs :
+General Linguistics :; Jobs : NLP ; Phonetics :; Jobs : English ;
+Pragmatics ; Socioling ; Syntax :; Jobs : Russian ; English ;
+Translation :; Jobs : English ; Translation :; Jobs : Dutch ; English
+; German ; NLP ; Machine Learning :; Jobs : Applied Ling ; General
+Ling :; Jobs : Hebrew ; General Linguistics :; Jobs : Spanish ;
+Socioling , Heritage Speakers :; Jobs : Mandarin Chinese ; Applied
+Ling :; Jobs : English ; 2nd Lang Acq ; Multilingualism ; Rhetoric &
+amp ; Composition :; Jobs : French ; English ; Applied Ling ; Comp
+Ling ; General Ling :; Jobs : Dutch ; French ; English ; Applied Ling
+; Comp Ling ; General Ling :; Jobs : Morphology ; Syntax :; Jobs :
+Phonology :; Jobs : French ; Luxembourgish ; German ; Didactique et
+Pédagogie Générales :; Jobs : Modified : Phonetics :; Jobs :
+Phonetics ; Phonology :; Jobs : Spanish ; Lang Acq ; Applied Ling :;
+Jobs : Applied Ling :; Jobs : Italian ; General Linguistics :; Jobs :
+Vietnamese ; Comp Ling :; Jobs : German ; Germanic ; Applied Ling :;
+Jobs : Comp Ling ; NLP ; Dialogue Systems :; Jobs : English ; General
+Ling :; Jobs : Applied Ling ; Second/Foreign Language Education :;
+Jobs : Text/Corpus Linguistics :; Jobs : General Ling ; Typology ;
+Algonquian Ling :; Jobs : Linguistic Anthropology :; Jobs : English ;
+Applied Linguistics :; Jobs : Cog Sci ; Neuroling ; Psycholing :; Jobs
+: Polish ; General Ling ; Slavic Ling :; Jobs : Spanish ; Translation
+:; Jobs : Esperanto ; General Ling :; Jobs : Psycholinguistics :; Jobs
+: Japanese ; Applied Ling :; Jobs : Computational Ling ; Lang Acq :;
+Jobs : Multiple Languages ; General Ling :; Jobs : English ; General
+Ling :; Jobs : English ; German ; Comp Ling ; Text/Corpus Ling :; Jobs
+: English ; German ; Comp Ling ; Text/Corpus Ling :; Jobs : English ;
+German ; Comp Ling ; Text/Corpus Ling :; Jobs : Anthro Ling :; Jobs :
+Japanese ; General Ling :; Jobs : Computational Linguistics ; Typology
+; NLP :; Jobs : Computational Linguistics :; Jobs : Anthropological
+Ling ; Lang Documentation ; Typology :; Jobs : Cog Sc ; Lang Acq ;
+Psycholing :; Jobs : Discourse Analysis ; Pragmatics ; Socioling ;
+Text/Corpus Ling ; Translation :; Jobs : Phonetics :; Jobs : German ;
+Semantics :; Jobs : German ; Lang Acq ; Semantics ; Syntax :; Jobs :
+Norwegian Bokmål ; Comp Ling ; Phonetics :; Jobs : German ; Semantics
+; Text/Corpus Linguistics :; Jobs : English ; Applied Ling ; Writing
+Theory ; Rhetoric ; Genre Studies :; Jobs : Applied Ling :; Jobs :
+English ; Applied Ling ; Cog Sci ; Lang Acq ; Computer Assisted
+Language Learning :; Jobs : Syntax :; Jobs : Lang Acquisition :; Jobs
+: General Ling ; Phonetics ; Socioling :; Jobs : General Linguistics
+:; Jobs : General Linguistics :; Jobs : General Linguistics :; Jobs :
+Multiple Languages ; Applied Ling :; Jobs : Applied Ling :; Jobs :
+General Ling ; Ling & amp ; Literature :; Jobs : English ; Applied
+Ling ; Translation :; Jobs : Applied Ling ; ESL Teacher Education :;
+Jobs : Applied Ling ; Didactique du Français Langue Seconde :; Jobs :
+American Sign Language ; Applied Linguistics :; Jobs : Multiple
+Languages ; Language Acquisition :; Jobs : General Linguistics :; Jobs
+: Historical Linguistics ; Syntax :; Jobs : Language Acquisition :;
+Jobs : General Linguistics :; Jobs : General Ling :; Jobs : English ;
+Socioling ; Language Variation and Change :; Jobs : Slavic Subgroup ;
+General Ling :; Jobs : Multiple Languages ; Comp Ling ; Text/Corpus
+Ling ; NLP ; Computer Science :; Jobs : Pragmatics ; Socioling ;
+Corpus Ling ; Empirical Research Methodology :; Jobs : English ;
+Applied Ling ; TESOL :; Jobs : Applied Ling ; Neuroling ; Psycholing ;
+Socioling :; Jobs : Mandarin Chinese ; Applied Ling :; Jobs :
+Translation :; Jobs : Computational Linguistics :; Jobs :
+Computational Linguistics ; Psycholinguistics ; Natural Language
+Processing :; Jobs : Cognitive Science :; Jobs : Language Acquisition
